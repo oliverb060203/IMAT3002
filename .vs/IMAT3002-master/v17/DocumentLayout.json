@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|h:\\documents\\imat3002-master (1)\\imat3002-master\\assets\\scripts\\ai\\killtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\killtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\assets\\scripts\\ballooncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballooncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KillTarget.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\KillTarget.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\KillTarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:45:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BalloonController.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BalloonController.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BalloonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:42:31.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

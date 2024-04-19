@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\",
+  "WorkspaceRootPath": "H:\\Documents\\IMAT3002-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|h:\\documents\\imat3002-master (1)\\imat3002-master\\assets\\scripts\\ai\\killtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|h:\\documents\\imat3002-master\\assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master\\assets\\scripts\\hideafterdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hideafterdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master\\assets\\scripts\\assigncanvaseventcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assigncanvaseventcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master\\assets\\scripts\\ai\\killtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\killtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\assets\\scripts\\ballooncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|H:\\Documents\\IMAT3002-master\\assets\\scripts\\ballooncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62D6C373-60F9-C35A-757A-C6441D28634E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballooncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,23 +35,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KillTarget.cs",
-              "DocumentMoniker": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\KillTarget.cs",
-              "ToolTip": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\KillTarget.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Title": "SceneManagerScript.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:45:39.299Z",
+              "WhenOpened": "2024-04-19T12:18:42.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HideAfterDelay.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\HideAfterDelay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HideAfterDelay.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\HideAfterDelay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HideAfterDelay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:58:27.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignCanvasEventCamera.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\AssignCanvasEventCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AssignCanvasEventCamera.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\AssignCanvasEventCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AssignCanvasEventCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:46:37.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KillTarget.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\KillTarget.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\AI\\KillTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\KillTarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:45:39.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BalloonController.cs",
-              "DocumentMoniker": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
+              "DocumentMoniker": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BalloonController.cs",
-              "ToolTip": "H:\\Documents\\IMAT3002-master (1)\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
+              "ToolTip": "H:\\Documents\\IMAT3002-master\\Assets\\Scripts\\BalloonController.cs",
               "RelativeToolTip": "Assets\\Scripts\\BalloonController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
